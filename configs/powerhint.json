@@ -410,18 +410,6 @@
       "Value": "10000"
     },
     {
-      "PowerHint": "LAUNCH",
-      "Node": "L3LittleClusterMinFreq",
-      "Duration": 5000,
-      "Value": "1804"
-    },
-    {
-      "PowerHint": "LAUNCH",
-      "Node": "L3BigClusterMinFreq",
-      "Duration": 5000,
-      "Value": "2208"
-    },
-    {
       "PowerHint": "CAMERA_LAUNCH",
       "Node": "EnergyAware",
       "Duration": 1000,

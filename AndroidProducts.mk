@@ -5,4 +5,10 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_sky.mk
+    $(LOCAL_DIR)/superior_sky.mk
+
+
+COMMON_LUNCH_CHOICES := \
+    superior_sky-user \
+    superior_sky-userdebug \
+    superior_sky-eng
